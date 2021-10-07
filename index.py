@@ -28,7 +28,7 @@ def save_file():
     window.title(f"Thecleverprogrammer - {filepath}")
 
 window = tk.Tk()
-window.title("Thecleverprogrammer")
+window.title("Theclevererprogrammer")
 window.rowconfigure(0, minsize=800, weight=1)
 window.columnconfigure(1, minsize=800, weight=1)
 
